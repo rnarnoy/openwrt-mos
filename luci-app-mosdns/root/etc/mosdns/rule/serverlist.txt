@@ -27085,7 +27085,6 @@ deliriousglowing.com
 deliriumabatecarefully.com
 deliriumalbumretreat.com
 deliver.ifeng.com
-deliver.kuwo.cn
 deliver.ptgncdn.com
 delivereddecisiverattle.com
 delivery-pc.wasu.cn
@@ -42700,7 +42699,6 @@ htrace.wetvinfo.com
 htseca.top
 htsysxlupdqe.com
 httpdns-sdk.n.netease.com
-httpdns.alicdn.com
 httpdns.bcelive.com
 httpdns.browser.miui.com
 httpdns.c.cdnhwc2.com
@@ -57692,7 +57690,6 @@ mccntp.raen.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcdmetrics2.aaa.com
-mcdn.bilivideo.cn
 mcdote.com
 mcds7.icu
 mcds9.icu
