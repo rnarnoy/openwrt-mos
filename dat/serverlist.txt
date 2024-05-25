@@ -43317,7 +43317,6 @@ i.posthog.com
 i.raise.me
 i.rttd.io
 i.shelf.im
-i.snssdk.com
 i.spyn.co
 i.ssix.io
 i.tansuotv.com
@@ -53285,7 +53284,6 @@ log.rutube.ru
 log.seekda.com
 log.sina.cn
 log.snapdeal.com
-log.snssdk.com
 log.so.hunantv.com
 log.stat.kugou.com
 log.tagtic.cn
