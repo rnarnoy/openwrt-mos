@@ -2759,7 +2759,6 @@ a1.firstgw.com
 a1.huanqiumil.com
 a1.huiqituan.com
 a1.img.static.youmi.net
-a1.itc.cn
 a1.lmaq.cn
 a1.lshou.com
 a1.mingyihui.net
@@ -9465,7 +9464,6 @@ adx.timewit.cn
 adx.tuia.cn
 adx.ws
 adx.xiaodutv.com
-adx.yiche.com
 adx1.com
 adx1js.s3.amazonaws.com
 adx3.iq39.com
@@ -20107,7 +20105,6 @@ changeablecats.com
 changejav128.fun
 changmaoxinjzo.com
 changuvoub.net
-changyan.sohu.com
 channel-analysis-js.gmw.cn
 channel-impact.actonservice.com
 channel.cummins.com
@@ -30449,7 +30446,6 @@ eclkmpsa.com
 eclkspbn.com
 eclnqdlbtgokj.site
 eclvgswxvthwx.space
-ecma.bdimg.com
 ecmb.bdimg.com
 ecmc.bdimg.com
 ecn-analytics-nssl.emc.com
@@ -36901,7 +36897,6 @@ gjrlcxthtkeab.site
 gjsbhticwqla.com
 gjwos.org
 gk.gkservices.com
-gk.sina.cn
 gk1.582582.com
 gk1.zjbiz.net
 gk79a2oup.com
@@ -72456,7 +72451,6 @@ sawnieepiural.shop
 sawp.cloud
 sax.mobile.sina.cn
 sax.sina.cn
-sax.sina.com.cn
 sax1.sina.com.cn
 sax2.sina.com.cn
 sax3.sina.com.cn
@@ -81019,7 +81013,6 @@ stat2.openinstall.io
 stat24.com
 stat24.ru
 statcamp.net
-statcounter.com
 statcounterfree.com
 statdb.pressflex.com
 statdynamic.com
@@ -85208,7 +85201,6 @@ texturetrick.com
 teyourmarketing.trungaleegan.com
 teyvmb.moniquelhuillier.com
 tezlpl.icu
-tf.360.cn
 tf.caohua.com
 tf.hftaili.com
 tf58.com
@@ -97229,7 +97221,6 @@ www.souid.com
 www.srhuafeng.com
 www.ssstuitui1999.com
 www.startappexchange.com
-www.statcounter.com
 www.staticfile.net
 www.staticfile.org
 www.sxdyrq.com
